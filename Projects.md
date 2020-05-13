@@ -1,57 +1,90 @@
-## Верстка | HTML, CSS, JS
+# Разработанные проекты
+
+## Проекты
+
+***
+
+### **Weather (v.0.4)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
+
+***Стек:*** JS (ES6), React, Webpack, GH Actions.
+
+***Краткое описание:*** Приложение для проверки погоды в любом городе.
+
+***Чему научился:*** Приложение разработал на фреймворке React, для управления формой использовал react-hook-form. Научился получать данные по API и организовывать взаимодействие между несколькими API, работать с переменными окружения с помощью плагина dotenv, а также научился настраивать webpack отдельно под production, где переменные окружения работаю корректно.
+
+### **Slack-chat (v.0.0.10)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
+
+***Стек:*** JS (ES6), React/Redux, React Bootstrap, Webpack, Websockets, GH Actions.
+
+***Краткое описание:*** Упрощенная версия Slack-чата.
+
+***Чему научился:*** Получил опыт разработки с помощью фреймворка React, для управления состоянием приложения использовал Redux, а для контроля форм - библиотеку Formik. Активно взаимодействовал с бекендом. Для построения real-time приложения использовал вебсокеты. Деплоил проект на Heroku.
+
+### **RSS feed aggregator (v.0.9)** | [Preview](https://frontend-project-lvl3-nu.now.sh/) | [Repository](https://github.com/it-amalker/frontend-project-lvl3)
+
+***Стек:*** JS (ES6), Bootstrap 4, Webpack, GH Actions.
+
+***Краткое описание:*** RSS-лента с автоматическим обновлением новостей.
+
+***Чему научился:*** Научился настраивать и использовать сборщик Webpack, получил навыки работы с фреймворком Bootstrap, научился отправлять запросы с помощью AJAX (Axios). Контролировать валидацию форм с помощья библиотеки Yup. Для интернационализации воспользовался фреймворком i18next. Приложение написано с соблюдением архитектурного принципа MVC.
+
+### **Difference generator (v. 0.10)** | [Repository](https://github.com/it-amalker/frontend-project-lvl2)
+
+***Стек:*** JS (ES6), Jest, GH Actions.
+
+***Краткое описание:*** Утилита для поиска отличий между двумя конфигурационными файлами.
+
+***Чему научился:*** Консольное приложение разработал при помощи техники TDD. Для написания unit-тестов использовал библиотеку Jest. Закрепил навыки работы с деревьями и построением АСД. При разработке применил архитектурные принципы Фасад и Адаптер.
+
+### **Brain games (v.0.12)** | [Repository](https://github.com/it-amalker/frontend-project-lvl1)
+
+***Стек:*** JS (ES6), Jest, Travis CI.
+
+***Краткое описание:*** Небольшое CLI-приложение с пятью играми-головоломками.
+
+***Чему научился:*** Научился настраивать окружение, работать с NPM, использовать транспилятор Babel, следить за стилем кода с помощью Eslint и следовать стандартам кодирования Airbnb, а также подключать проект к сервису непрерывной интеграции CI. Проект написан в функциональном стиле. Для написания unit-тестов использовал библиотеку Jest.
+
+***
+
+## Адаптивная верстка | HTML/CSS, БЭМ, SASS, GULP, JS
+
+### **Чему научился:** Научился адаптивной верстке с применением ретинизации и оптимизации графики. При верстке придерживался методологии БЭМ, использовал препроцессор SASS. Для сборки проекта был выбран Gulp.
+
+***
+### **Mishka** | [Preview](https://it-amalker.github.io/mishka/build) | [Repository](https://github.com/it-amalker/mishka)
+
+***Краткое описание:*** Интернет-магазин изделий ручной работы.
+
+### **Pink** | [Preview](https://it-amalker.github.io/pink/build) | [Repository](https://github.com/it-amalker/pink)
+
+***Краткое описание:*** Веб-сайт небольшого приложения для смартфонов.
+
+***
+
+## Верстка | HTML/CSS, JS
 
 ### **Чему научился:** Научился семантической верстке HTML5, применять стили CSS, верстать кроссбраузерно, оживлять модальные окна и слайдеры с помощью JS.
 
 ***
-### Device | [Preview](https://it-amalker.github.io/device/index.html) | [Repository](https://github.com/it-amalker/device)
 
-**Краткое описание:** Интернет-магазин электронники.
+### **Device** | [Preview](https://it-amalker.github.io/device/index.html) | [Repository](https://github.com/it-amalker/device)
 
-***
-### Gllacy | [Preview](https://it-amalker.github.io/gllacy/) | [Repository](https://github.com/it-amalker/gllacy)
-
-**Краткое описание:** Интернет-магазин мороженного.
-
-***
-
-### Technomart | [Preview](https://it-amalker.github.io/technomart/index.html) | [Repository](https://github.com/it-amalker/technomart)
-
-**Краткое описание:** Интернет-магазин строительных материалов и инструментов для ремонта.
-
-***
-
-### Sedona | [Preview](https://it-amalker.github.io/sedona/index.html) | [Repository](https://github.com/it-amalker/sedona)
-
-**Краткое описание:** Туристический сайт-визитка американского городка Седона.
-
-***
-### Sedona | [Preview](https://it-amalker.github.io/nerds) | [Repository](https://github.com/it-amalker/nerds)
-
-**Краткое описание:** Веб-сайт небольшой дизайн-студии.
+***Краткое описание:*** Интернет-магазин электронники.
 
 
+### **Gllacy** | [Preview](https://it-amalker.github.io/gllacy/) | [Repository](https://github.com/it-amalker/gllacy)
+
+***Краткое описание:*** Интернет-магазин мороженного.
 
 
+### **Technomart** | [Preview](https://it-amalker.github.io/technomart/index.html) | [Repository](https://github.com/it-amalker/technomart)
 
+***Краткое описание:*** Интернет-магазин строительных материалов и инструментов для ремонта.
 
+### **Sedona** | [Preview](https://it-amalker.github.io/sedona/index.html) | [Repository](https://github.com/it-amalker/sedona)
 
+***Краткое описание:*** Туристический сайт-визитка американского городка Седона.
 
-***
-***
-***
+### **Nerds** | [Preview](https://it-amalker.github.io/nerds) | [Repository](https://github.com/it-amalker/nerds)
 
-
-
-
-
-Hexlet profile: https://ru.hexlet.io/u/amalker
-
-С сентября 2019 изучаю программирование, в частности фронтенд направление. Закончил профессию "Frontend JavaScript" на платформе Hexlet. Опыта в коммерческой разработке не имею, но постоянно практикуюсь и на данный момент реализовал следующие проекты:
-1. Brain games (https://github.com/it-amalker/frontend-project-lvl1): Научился настраивать окружение, работать с NPM, использовать транспилятор Babel, следить за стилем кода с помощью Eslint и следовать стандартам кодирования Airbnb, а также подключать проект к сервису непрерывной интеграции CI.
-2. Difference generator (https://github.com/it-amalker/frontend-project-lvl2): Консольное приложение разработал при помощи техники TDD. Для тестов использовал Jest. Закрепил навыки работы с деревьями и построением АСД. При разработке применил архитектурные принципы Фасад и Адаптер.
-3. RSS feed aggregator (https://github.com/it-amalker/frontend-project-lvl3): Научился настраивать и использовать сборщик Webpack, получил навыки работы с фреймворком Bootstrap, научился отправлять запросы с помощью AJAX (Axios). Приложение написано с соблюдением архитектурного принципа MVC.
-Preview: https://frontend-project-lvl3-nu.now.sh
-4. Slack chat (https://github.com/it-amalker/frontend-project-lvl4): Получил опыт разработки с помощью фреймворка React, для управления состоянием приложения использовал Redux, а для контроля форм - библиотеку Formik. Активно взаимодействовал с бекендом. Для построения real-time приложения использовал вебсокеты. Деплоил проект на Heroku.
-Preview: https://fast-lake-13387.herokuapp.com
-
-Также сверстал несколько сайтов, последний из них можно посмотреть здесь - https://it-amalker.github.io/mishka/build. Макет сверстал адаптивно, с применением ретинизации и оптимизации графики. При верстке придерживался методологии БЭМ, использовал препроцессор SASS. Для сборки проекта был выбран Gulp. Остальные работы можно найти на моем GitHub аккаунте: https://github.com/it-amalker
+***Краткое описание:*** Веб-сайт небольшой дизайн-студии.
