@@ -2,13 +2,15 @@
 
 ## Проекты
 
-### **Weather (v.0.4)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
+### **Weather (v.0.7)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
 
-***Стек:*** JS (ES6), React, Webpack, GH Actions.
+***Стек:*** JS (ES6), TypeScript, React, Webpack, GH Actions.
 
 ***Краткое описание:*** Приложение для проверки погоды в любом городе.
 
 ***Чему научился:*** Приложение разработал на фреймворке React, для управления формой использовал react-hook-form. Научился получать данные по API и организовывать взаимодействие между несколькими API, работать с переменными окружения с помощью плагина dotenv, а также научился настраивать webpack отдельно под production, где переменные окружения работаю корректно.
+
+**UPD.** Переписал приложение на Typescript. Научился работать и описывать типы, работать с типами в React. Также настроил окружение: сборкой бандла занимается Webpack, транспиляцию кода настроил через Babel (TypeScript => Babel => JS), перенастроил Eslint+Prettier.
 
 ### **Slack-chat (v.0.0.10)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
 
