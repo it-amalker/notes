@@ -1,3 +1,3 @@
-# Список всех разработанных проектов
+# All projects
 
-## [Список проектов](./projects/projects-list.md)
+## [Projects list](./projects/projects-list.md)
