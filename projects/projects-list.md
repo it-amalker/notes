@@ -2,6 +2,16 @@
 
 ## Проекты
 
+### **Routes (v.0.6)** | [Preview](https://routes-app.amalker.vercel.app/) | [Repository](https://github.com/it-amalker/routes-app)
+
+***Стек:*** TypeScript, React, Webpack, Google Maps API.
+
+***Краткое описание:*** Приложение для построения маршрутов на Google Maps.
+
+***Чему научился:*** При разработке использовал *Typescript + React*. Научился работать с несколькими *Google APIs* (Maps, Places, Directions, Geocoding). Для работы с Google Maps API в React использовал библиотеку *@react-google-maps/api*. Компонент поиска по карте с выпадающим списком реализовал с помощью *Combobox (Reach UI)*. Также получил опыт построения *Drag&Drop* интерфейса для взаимодействия с точками на карте. Все маркеры на карте являются *интерактивными* и маршрут динамически перестраивается на любые изменения положения маркеров (также обновляется адрес благодаря взаимодействию с Geocoding API), в том числе посредством использования D&D-интерфейса.
+
+***В планах:*** Добавить выбор вида построения маршрута (пеший, велосипедный, автомобильный (используется по-умолчанию сейчас)), другие доработки.
+
 ### **Table (v.0.5)** | [Preview](https://test-task-bim-info-ru.amalker.now.sh/) | [Repository](https://github.com/it-amalker/test-task-bim-info-ru)
 
 ***Стек:*** TypeScript, React, Webpack.
