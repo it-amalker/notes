@@ -40,7 +40,7 @@
 
 **UPD.** Переписал приложение на _Typescript_. Научился работать и описывать типы, работать с типами в _React_. Также настроил окружение: сборкой бандла занимается _Webpack_, транспиляцию кода настроил через _Babel (TypeScript => Babel => JS)_, перенастроил _Eslint+Prettier_.
 
-### **Slack-chat (v.0.0.10)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
+### **Slack-chat (v.0.10.0)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
 
 **_Стек:_** JS (ES6), React/Redux, React Bootstrap, Webpack, Websockets, GH Actions.
 
