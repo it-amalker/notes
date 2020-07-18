@@ -30,7 +30,7 @@
 
 **_Описание разработки:_** Приложение написано на _Typescript_, а также с использованием фреймворка _React_. Для работы с формами и их валидацией воспользовался _react-hook-form_. Для сборки проекта использовал _Webpack_.
 
-### **Weather (v.0.8)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
+### **Weather (v.0.10)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
 
 **_Стек:_** TypeScript, React, Webpack, GH Actions.
 
@@ -40,7 +40,9 @@
 
 **UPD.** Переписал приложение на _Typescript_. Научился работать и описывать типы, работать с типами в _React_. Также настроил окружение: сборкой бандла занимается _Webpack_, транспиляцию кода настроил через _Babel (TypeScript => Babel => JS)_, перенастроил _Eslint+Prettier_.
 
-### **Slack-chat (v.0.10.0)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
+**UPD2.** Переписал приложение c использованием _styled-components_. Изменил структуру компонентов, теперь каждый компонент находится в отдельной директории, в которой также находятся модули стилей и юнит тестов. Начал покрывать приложение тестами с помощью Enzyme\Jest.
+
+### **Slack-chat (v.0.10)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
 
 **_Стек:_** JS (ES6), React/Redux, React Bootstrap, Webpack, Websockets, GH Actions.
 
