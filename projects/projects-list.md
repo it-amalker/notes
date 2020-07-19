@@ -2,7 +2,7 @@
 
 ## Проекты
 
-### **Avia search results (v.0.4)** | [Preview](https://test-task-gridnine-systems.vercel.app/) | [Repository](https://github.com/it-amalker/test-task-gridnine-systems)
+### :airplane: **Avia search results (v.0.4)** | [Preview](https://test-task-gridnine-systems.vercel.app/) | [Repository](https://github.com/it-amalker/test-task-gridnine-systems)
 
 **_Стек:_** JS, React, Webpack.
 
@@ -10,7 +10,7 @@
 
 **_Описание разработки:_** Приложение написано на фреймворке _React_. Сборкой бандла проекта занимается _Webpack_. Для манипулирования с датами и временем использовал библиотеку _date-fns_. Также реализовал интернационализацию с помощью _i18next_ с возможностью переключения английского и русского языков.
 
-### **Routes (v.0.7)** | [Preview](https://routes-app.amalker.vercel.app/) | [Repository](https://github.com/it-amalker/routes-app)
+### :round_pushpin: **Routes (v.0.7)** | [Preview](https://routes-app.amalker.vercel.app/) | [Repository](https://github.com/it-amalker/routes-app)
 
 **_Стек:_** TypeScript, React, Webpack, Google Maps API.
 
@@ -22,7 +22,7 @@
 
 **_В планах:_** Покрыть приложение тестами.
 
-### **Table (v.0.5)** | [Preview](https://test-task-bim-info-ru.amalker.now.sh/) | [Repository](https://github.com/it-amalker/test-task-bim-info-ru)
+### :page_facing_up: **Table (v.0.5)** | [Preview](https://test-task-bim-info-ru.amalker.now.sh/) | [Repository](https://github.com/it-amalker/test-task-bim-info-ru)
 
 **_Стек:_** TypeScript, React, Webpack.
 
@@ -30,7 +30,7 @@
 
 **_Описание разработки:_** Приложение написано на _Typescript_, а также с использованием фреймворка _React_. Для работы с формами и их валидацией воспользовался _react-hook-form_. Для сборки проекта использовал _Webpack_.
 
-### **Weather (v.0.10)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
+### :partly_sunny: **Weather (v.0.10)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
 
 **_Стек:_** TypeScript, React, Webpack, GH Actions.
 
@@ -42,7 +42,7 @@
 
 **UPD2.** Переписал приложение c использованием _styled-components_. Изменил структуру компонентов, теперь каждый компонент находится в отдельной директории, в которой также находятся модули стилей и юнит тестов. Начал покрывать приложение тестами с помощью Enzyme\Jest.
 
-### **Slack-chat (v.0.10)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
+### :cyclone: **Slack-chat (v.0.10)** | [Preview](https://fast-lake-13387.herokuapp.com/) | [Repository](https://github.com/it-amalker/frontend-project-lvl4)
 
 **_Стек:_** JS (ES6), React/Redux, React Bootstrap, Webpack, Websockets, GH Actions.
 
@@ -50,7 +50,7 @@
 
 **_Чему научился:_** Получил опыт разработки с помощью фреймворка _React_, для управления состоянием приложения использовал _Redux_, а для контроля форм - библиотеку _Formik_. Активно взаимодействовал с _бекендом_. Для построения real-time приложения использовал _вебсокеты_. Деплоил проект на _Heroku_.
 
-### **RSS feed aggregator (v.0.9)** | [Preview](https://frontend-project-lvl3-nu.now.sh/) | [Repository](https://github.com/it-amalker/frontend-project-lvl3)
+### :newspaper: **RSS feed aggregator (v.0.9)** | [Preview](https://frontend-project-lvl3-nu.now.sh/) | [Repository](https://github.com/it-amalker/frontend-project-lvl3)
 
 **_Стек:_** JS (ES6), Bootstrap 4, Webpack, GH Actions.
 
@@ -58,7 +58,7 @@
 
 **_Чему научился:_** Научился настраивать и использовать сборщик _Webpack_, получил навыки работы с фреймворком _Bootstrap_, научился отправлять запросы с помощью _AJAX (Axios)_. Контролировать валидацию форм с помощью библиотеки _Yup_. Для интернационализации воспользовался фреймворком _i18next_. Приложение написано с соблюдением архитектурного принципа _MVC_.
 
-### **Difference generator (v. 0.10)** | [Repository](https://github.com/it-amalker/frontend-project-lvl2)
+### :mag_right: **Difference generator (v. 0.10)** | [Repository](https://github.com/it-amalker/frontend-project-lvl2)
 
 **_Стек:_** JS (ES6), Jest, GH Actions.
 
@@ -66,7 +66,7 @@
 
 **_Чему научился:_** Консольное приложение разработал при помощи техники _TDD_. Для написания unit-тестов использовал библиотеку _Jest_. Закрепил навыки работы с деревьями и построением _АСД_. При разработке применил архитектурные принципы _Фасад_ и _Адаптер_.
 
-### **Brain games (v.0.12)** | [Repository](https://github.com/it-amalker/frontend-project-lvl1)
+### :ghost: **Brain games (v.0.12)** | [Repository](https://github.com/it-amalker/frontend-project-lvl1)
 
 **_Стек:_** JS (ES6), Jest, Travis CI.
 
@@ -78,11 +78,11 @@
 
 **_Чему научился:_** Научился адаптивной верстке с применением _ретинизации_ и _оптимизации графики_. При верстке придерживался методологии _БЭМ_, использовал препроцессор _SCSS_. Для сборки проекта был выбран _Gulp_.
 
-### **Mishka** | [Preview](https://it-amalker.github.io/mishka/build) | [Repository](https://github.com/it-amalker/mishka)
+### :bear: **Mishka** | [Preview](https://it-amalker.github.io/mishka/build) | [Repository](https://github.com/it-amalker/mishka)
 
 **_Краткое описание:_** Интернет-магазин изделий ручной работы.
 
-### **Pink** | [Preview](https://it-amalker.github.io/pink/build) | [Repository](https://github.com/it-amalker/pink)
+### :cherries: **Pink** | [Preview](https://it-amalker.github.io/pink/build) | [Repository](https://github.com/it-amalker/pink)
 
 **_Краткое описание:_** Веб-сайт небольшого приложения для смартфонов.
 
@@ -90,22 +90,22 @@
 
 **_Чему научился:_** Научился семантической верстке _HTML5_, применять стили _CSS_, верстать _кроссбраузерно_, оживлять модальные окна и слайдеры с помощью _JS_.
 
-### **Device** | [Preview](https://it-amalker.github.io/device/index.html) | [Repository](https://github.com/it-amalker/device)
+### :battery: **Device** | [Preview](https://it-amalker.github.io/device/index.html) | [Repository](https://github.com/it-amalker/device)
 
 **_Краткое описание:_** Интернет-магазин электроники.
 
-### **Gllacy** | [Preview](https://it-amalker.github.io/gllacy/) | [Repository](https://github.com/it-amalker/gllacy)
+### :ice_cream: **Gllacy** | [Preview](https://it-amalker.github.io/gllacy/) | [Repository](https://github.com/it-amalker/gllacy)
 
 **_Краткое описание:_** Интернет-магазин мороженного.
 
-### **Technomart** | [Preview](https://it-amalker.github.io/technomart/index.html) | [Repository](https://github.com/it-amalker/technomart)
+### :hammer: **Technomart** | [Preview](https://it-amalker.github.io/technomart/index.html) | [Repository](https://github.com/it-amalker/technomart)
 
 **_Краткое описание:_** Интернет-магазин строительных материалов и инструментов для ремонта.
 
-### **Sedona** | [Preview](https://it-amalker.github.io/sedona/index.html) | [Repository](https://github.com/it-amalker/sedona)
+### :sunrise_over_mountains: **Sedona** | [Preview](https://it-amalker.github.io/sedona/index.html) | [Repository](https://github.com/it-amalker/sedona)
 
 **_Краткое описание:_** Туристический сайт-визитка американского городка Седона.
 
-### **Nerds** | [Preview](https://it-amalker.github.io/nerds) | [Repository](https://github.com/it-amalker/nerds)
+### :city_sunrise: **Nerds** | [Preview](https://it-amalker.github.io/nerds) | [Repository](https://github.com/it-amalker/nerds)
 
 **_Краткое описание:_** Веб-сайт небольшой дизайн-студии.
