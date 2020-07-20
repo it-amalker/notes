@@ -30,7 +30,7 @@
 
 **_Описание разработки:_** Приложение написано на _Typescript_, а также с использованием фреймворка _React_. Для работы с формами и их валидацией воспользовался _react-hook-form_. Для сборки проекта использовал _Webpack_.
 
-### :partly_sunny: **Weather (v.0.10)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
+### :partly_sunny: **Weather (v.0.11)** | [Preview](https://weather-puce.now.sh/) | [Repository](https://github.com/it-amalker/Weather)
 
 **_Стек:_** TypeScript, React, Webpack, GH Actions.
 
